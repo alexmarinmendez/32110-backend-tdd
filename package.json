@@ -1,0 +1,15 @@
+{
+  "name": "online-21-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "test": "node test/test.js",
+    "tdd": "nodemon test/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
